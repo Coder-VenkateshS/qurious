@@ -1,0 +1,24 @@
+{
+  "name": "qurious_server",
+  "version": "1.0.0",
+  "description": "server part of streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teacher-Venkatesh/qurious.git"
+  },
+  "keywords": [
+    "stream",
+    "live-stream",
+    "client-server-stream"
+  ],
+  "author": "Qurious",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teacher-Venkatesh/qurious/issues"
+  },
+  "homepage": "https://github.com/Teacher-Venkatesh/qurious#readme"
+}
